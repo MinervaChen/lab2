@@ -12,7 +12,9 @@ body {
     font-size: 18px;
     padding: 10px;
 }
-
+p {
+    margin: 5px;
+}
 .content-box {
         width: 80%;
         background-color: #FFF;
@@ -49,6 +51,11 @@ body {
 .logo {
         float: left;
         margin-right: 20px;
+}
+
+.person {
+    float: left;
+    margin-right: 5px;
 }
 .factory {
         float: left;
